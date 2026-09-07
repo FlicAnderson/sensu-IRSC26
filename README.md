@@ -1,6 +1,10 @@
 # sensu-IRSC26
 Slides and details of the "Sensu" lightning talk delivered as part of the 1st International Research Software Conference 2026 in Sheffield, UK.
 
-<img width="1280" height="717" alt="image" src="https://github.com/user-attachments/assets/36a49606-c316-4cd7-a6d2-f14732822489" />
+## Title slide:
+<img width="1201" height="677" alt="image" src="https://github.com/user-attachments/assets/ebf1b8d6-a409-4be7-81a2-c645ff25397a" />
 
-<img width="1280" height="721" alt="image" src="https://github.com/user-attachments/assets/27abc0a5-5a2b-4f48-9a15-3dede5d701ca" />
+## TL;DR final slide:
+<img width="1197" height="672" alt="image" src="https://github.com/user-attachments/assets/062ca1b9-850f-41a7-aa16-18457ce165ac" />
+
+
